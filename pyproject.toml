@@ -1,13 +1,11 @@
-echo '[project]
+[project]
 name = "i-hear-you"
 version = "0.1.0"
 requires-python = ">=3.10,<3.12"
 dependencies = [
     "streamlit==1.31.0",
     "transformers==4.36.0",
-    "torch==2.0.1",
-    "pandas==2.0.3",
     "plotly==5.17.0",
     "accelerate==0.25.0",
     "sentence-transformers==2.2.2"
-]' > pyproject.toml
+]
