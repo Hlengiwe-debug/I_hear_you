@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+.streamlit/secrets.toml
+*.h5
+*.pt
+*.pth
+*.bin
+*.onnx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.csv
